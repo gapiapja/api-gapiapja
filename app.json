@@ -1,0 +1,7 @@
+{
+  "name": "Gapiapja Rest API",
+  "description": "Rest API for Free For Everyone",
+  "repository": "https://github.com/gapiapja/api-gapiapja",
+  "logo": "https://api-gapiapja.herokuapp.com/admin/img/logo/icon.ico",
+  "keywords": ["node", "express", "rest api", "free", "api"]
+}
